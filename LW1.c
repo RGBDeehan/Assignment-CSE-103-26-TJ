@@ -1,8 +1,8 @@
 #include <stdio.h>
 int main(){
-float x;
+int x;
     printf("Enter the number: ");
-    scanf("%f",&x);
+    scanf("%d",&x);
 
     if ( x % 5 == 0) {
         printf("The number is divisible by 5");
