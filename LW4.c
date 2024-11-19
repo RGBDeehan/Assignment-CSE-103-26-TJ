@@ -20,3 +20,28 @@ int main() {
     return 0;
 }
 
+// ANOTHER WAY //
+
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+    int x ,  b ;
+    float a ;
+    printf("Enter a number: ");
+    scanf("%d", &x);
+
+
+   a = sqrt(x) ;
+    b = a ;
+
+
+    if (b - a == 0) {
+        printf("Perfect Square\n");
+    } else {
+        printf("Not Perfect Square\n");
+    }
+
+    return 0;
+}
+
