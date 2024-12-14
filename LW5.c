@@ -1,3 +1,4 @@
+// Input three numbers and display the difference between the highest and lowest number. //
 
 #include <stdio.h>
 int main(){
