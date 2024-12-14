@@ -45,3 +45,24 @@ int main() {
     return 0;
 }
 
+// Another //
+
+// perfect square //
+#include <stdio.h>
+#include <math.h>
+int main() {
+int a;
+float b,x;
+
+printf("Enter the number: ");
+scanf("%f",&x);
+
+a= sqrt(x);
+b= sqrt(x);
+
+if(a==b){
+    printf("It's a perfect square");
+}
+else{printf("It's not a perfect square");}
+    return 0;
+}
