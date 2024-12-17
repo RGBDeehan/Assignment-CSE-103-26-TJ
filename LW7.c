@@ -1,3 +1,5 @@
+/* Write a C program which can input two numbers indicating a point in a 2D co-ordinate and determine its quadrant. */
+
 #include <stdio.h>
 int main(){
 int x , y ;
