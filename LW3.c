@@ -1,3 +1,5 @@
+/* Input the age of a person and display whether he/she is teenager or not. */
+
 #include <stdio.h>
 int main(){
 float x;
