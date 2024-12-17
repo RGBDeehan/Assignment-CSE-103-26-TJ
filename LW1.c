@@ -1,3 +1,5 @@
+/* Input a number and display whether it is divisible 5 or not. */
+
 #include <stdio.h>
 int main(){
 float x;
