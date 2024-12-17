@@ -1,3 +1,5 @@
+/* Write a C program to input a number indicating income of a person and calculate tax with the given following conditions. if income is less then, 1,50,000 then no tax if taxable income is in the range 1,50,001-300,000 then charge 10% tax if taxable income is in the range 3,00,001-500,000 then charge 20% tax if taxable income is above 5,00,001 then charge 30% tax. */
+
 #include <stdio.h>
 int main () {
 float x , y ;
