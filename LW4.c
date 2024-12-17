@@ -1,3 +1,5 @@
+/* Input a number and display whether that is perfect square or not. */
+
 #include <stdio.h>
 #include <math.h>
 
